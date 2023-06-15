@@ -14,3 +14,4 @@ func main() {
 		fmt.Printf("%d é ímpar", num)
 	}
 }
+
